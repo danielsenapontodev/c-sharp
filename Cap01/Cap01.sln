@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrocaDeValores", "TrocaDeValores\TrocaDeValores.csproj", "{D5A8E98F-7215-460A-84B6-D28F3D7C45F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoDaDivisao", "RestoDaDivisao\RestoDaDivisao.csproj", "{D17243EE-B0F9-4685-A5C7-151133AF33F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastoEmRestaurante", "GastoEmRestaurante\GastoEmRestaurante.csproj", "{9D6B1A3B-325B-4533-ACE4-1834B072249F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A8E98F-7215-460A-84B6-D28F3D7C45F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A8E98F-7215-460A-84B6-D28F3D7C45F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A8E98F-7215-460A-84B6-D28F3D7C45F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A8E98F-7215-460A-84B6-D28F3D7C45F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17243EE-B0F9-4685-A5C7-151133AF33F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17243EE-B0F9-4685-A5C7-151133AF33F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17243EE-B0F9-4685-A5C7-151133AF33F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17243EE-B0F9-4685-A5C7-151133AF33F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6B1A3B-325B-4533-ACE4-1834B072249F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6B1A3B-325B-4533-ACE4-1834B072249F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6B1A3B-325B-4533-ACE4-1834B072249F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6B1A3B-325B-4533-ACE4-1834B072249F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
